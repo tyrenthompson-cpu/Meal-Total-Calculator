@@ -2,6 +2,7 @@
 
 Full Stack Developer | 
 **Delivering modern, resilient software with purpose, clarity, and precision** 
+![Profile Badge](https://img.shields.io/badge/-GitHub_Profile-blue?style=for-the-badge&logo=github)
 ---
 ## About Me 👋 
 I’m a cybersecurity professional with a B.S. in Cybersecurity and a growing passion for full‑stack development. I’m driven by the challenge of understanding how systems work from the inside out — and how to build them securely from the ground up.
@@ -65,18 +66,19 @@ An interactive learning management system integrating AI for personalized conten
 
 ---
 
-## Skills 💻  
+##### Skills & Tools 🛠️
 
-### **Core Expertise**  
-- **Full Stack Development**: React, Node.js, Express.js, Next.js, Django.  
-- **Blockchain Development**: Solidity, Ethereum, Polygon, Web3.js.  
-- **AI & Data Science**: TensorFlow.js, Scikit-learn, PyTorch, NLP, Predictive Analytics.  
+### Languages
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 
-### **Tools & Platforms**  
-- **Cloud Platforms**: AWS (S3, Lambda, EC2), Azure.  
-- **Databases**: PostgreSQL, MongoDB, Redis.  
-- **DevOps**: Docker, Kubernetes, GitHub Actions, Jenkins.  
-- **Collaboration Tools**: Slack, Miro, Confluence, Jira.  
+### Frameworks
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
 
 ---
 
